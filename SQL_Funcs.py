@@ -3,7 +3,7 @@ import mysql.connector
 RecipeDB = mysql.connector.connect(
     host = "127.0.0.1",
     user = "root",
-    passwd = "Sharktale24!",
+    passwd = "passwd",
     port = "3306"
 )
 
